@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codecademy", "Codecademy\Codecademy.csproj", "{9D3FB3CB-AC60-455C-A95B-6889A60F5A0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadLibs", "MadLibs\MadLibs.csproj", "{12125C91-AA57-40FD-A0B2-011C165FA412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D3FB3CB-AC60-455C-A95B-6889A60F5A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D3FB3CB-AC60-455C-A95B-6889A60F5A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D3FB3CB-AC60-455C-A95B-6889A60F5A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D3FB3CB-AC60-455C-A95B-6889A60F5A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12125C91-AA57-40FD-A0B2-011C165FA412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12125C91-AA57-40FD-A0B2-011C165FA412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12125C91-AA57-40FD-A0B2-011C165FA412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12125C91-AA57-40FD-A0B2-011C165FA412}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BF5CBAA-4B76-4364-83E2-703F387A7843}
+	EndGlobalSection
+EndGlobal
