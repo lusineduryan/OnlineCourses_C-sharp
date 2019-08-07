@@ -28,7 +28,6 @@ namespace MoneyMaker
 
             Console.WriteLine($"Gold coins: {goldCoins} \nSilver coins: {silverCoins} \nBronze coins: {remainder}");
 
-
             Console.ReadKey();
         }
     }
