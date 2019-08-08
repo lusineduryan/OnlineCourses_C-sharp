@@ -53,7 +53,6 @@ namespace ChooseYourOwnAdventure
                     }
                 }
             }
-
             Console.ReadKey();
         }
     }
