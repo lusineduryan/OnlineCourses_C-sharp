@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordChecker", "Password
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChooseYourOwnAdventure", "ChooseYourOwnAdventure\ChooseYourOwnAdventure.csproj", "{9F6952C3-2C1D-41E4-AF87-7E7163B006F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitectArithmetic", "ArchitectArithmetic\ArchitectArithmetic.csproj", "{3089A967-798C-444B-8857-46FE1630400B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9F6952C3-2C1D-41E4-AF87-7E7163B006F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F6952C3-2C1D-41E4-AF87-7E7163B006F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F6952C3-2C1D-41E4-AF87-7E7163B006F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3089A967-798C-444B-8857-46FE1630400B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3089A967-798C-444B-8857-46FE1630400B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3089A967-798C-444B-8857-46FE1630400B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3089A967-798C-444B-8857-46FE1630400B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
