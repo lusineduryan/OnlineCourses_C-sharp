@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitectArithmetic", "Arch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExquisiteCorpse", "ExquisiteCorpse\ExquisiteCorpse.csproj", "{69D40799-F555-489F-B114-28395AE833AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipher", "CaesarCipher\CaesarCipher.csproj", "{D4308879-D6F6-4859-95B3-847A430306E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{69D40799-F555-489F-B114-28395AE833AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69D40799-F555-489F-B114-28395AE833AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69D40799-F555-489F-B114-28395AE833AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4308879-D6F6-4859-95B3-847A430306E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4308879-D6F6-4859-95B3-847A430306E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4308879-D6F6-4859-95B3-847A430306E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4308879-D6F6-4859-95B3-847A430306E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
