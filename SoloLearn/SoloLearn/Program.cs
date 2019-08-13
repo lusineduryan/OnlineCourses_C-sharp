@@ -10,7 +10,7 @@ namespace SoloLearn
     {
         static void Main(string[] args)
         {
-
+            
         }
     }
 }
